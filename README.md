@@ -125,6 +125,7 @@ enforce_ident=0; // enforce ident reply
 
 no_idnt_cmd=0; // don't sent IDNT command to site
 
+**added (niche) option**:
 ident_ip=; // bind to this ip to get ident reply (defaults to listen_ip)
 
 [ Relink ]
