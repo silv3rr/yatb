@@ -14,4 +14,4 @@
 
 include/tls_dh.h
 yatb.conf
-.bak
+*.bak
